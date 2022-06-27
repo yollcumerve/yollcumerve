@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Flutter**
 
